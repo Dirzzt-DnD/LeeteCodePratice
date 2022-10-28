@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a59e795c-6c3b-4a43-887a-39e3f76e7ace" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/warzero/LeetcodeTop/Merge_Two_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/warzero/LeetcodeTop/Valid_Parentheses_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warzero/LeetcodeTop/Plus_One_66.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodePratice/com/warzero/LeetcodeTop/Longest_Common_Prefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodePratice/com/warzero/LeetcodeTop/Roman_To_Integer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab3/randomizedtest/TestBuggyAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/randomizedtest/TestBuggyAList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab3/timingtest/AList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/timingtest/AList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab3/timingtest/TimeAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/timingtest/TimeAList.java" afterDir="false" />
@@ -53,13 +49,15 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="JUnit.Merge_Two_21.test">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,6 +146,7 @@
       <workItem from="1666405160933" duration="7053000" />
       <workItem from="1666479677664" duration="39000" />
       <workItem from="1666838694196" duration="7039000" />
+      <workItem from="1666970200041" duration="520000" />
     </task>
     <servers />
   </component>
